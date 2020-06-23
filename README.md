@@ -74,7 +74,7 @@ We are required to model the price of cars with the available independent variab
 
 ### Correlation:
 
-* Correlation of price with independent variables: Price is highly (positively) correlated with wheelbase, carlength, carwidth, curbweight, enginesize, horsepower (note that all of these variables represent the size/weight/engine power of the car).
+*   Correlation of price with independent variables: Price is highly (positively) correlated with wheelbase, carlength, carwidth, curbweight, enginesize, horsepower (note that all of these variables represent the size/weight/engine power of the car).
 
 * Price is negatively correlated to citympg and highwaympg (-0.70 approximately). This suggest that cars having high mileage may fall in the 'economy' cars category, and are priced lower (think Maruti Alto/Swift type of cars, which are designed to be affordable by the middle class, who value mileage more than horsepower/size of car etc)
 
